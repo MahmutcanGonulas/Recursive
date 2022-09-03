@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\bin\Debug\net6.0\15-MetotRekürsif.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\bin\Debug\net6.0\15-MetotRekürsif.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\bin\Debug\net6.0\15-MetotRekürsif.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\bin\Debug\net6.0\15-MetotRekürsif.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\bin\Debug\net6.0\15-MetotRekürsif.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\obj\Debug\net6.0\15-MetotRekürsif.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\obj\Debug\net6.0\15-MetotRekürsif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\obj\Debug\net6.0\15-MetotRekürsif.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\obj\Debug\net6.0\15-MetotRekürsif.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\obj\Debug\net6.0\15-MetotRekürsif.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\obj\Debug\net6.0\15-MetotRekürsif.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\obj\Debug\net6.0\refint\15-MetotRekürsif.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\obj\Debug\net6.0\15-MetotRekürsif.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\obj\Debug\net6.0\15-MetotRekürsif.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\15-MetotRekürsif\obj\Debug\net6.0\ref\15-MetotRekürsif.dll
